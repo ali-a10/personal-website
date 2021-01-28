@@ -1,0 +1,101 @@
+#main-header{
+	background-color: #008fff;
+	border:5px white solid;
+	border-radius:15px
+}
+
+#main-header h1{
+	color: white;
+	font: bold 32x Verdana, Geneva, sans-serif;
+	font-family:Verdana, Geneva, sans-serif;
+	padding:20px;
+	text-align:center
+}
+
+#navbar{
+	background: #cccccc;
+	border:5px white solid;
+	border-radius:15px
+}
+
+#navbar ul{
+	padding:0;
+	list-style:none;
+	text-align:center
+}
+
+#navbar li{
+	display:inline;
+	padding:60px;
+	margin:auto;
+	text-align:center;
+}
+
+#navbar a{
+	margin:auto;
+	text-decoration:none;
+	float:none;
+	padding:80px;
+}
+
+.curr-page{
+	background:#008fff;
+	color:white;
+	border:2px black solid;
+	border-radius:15px
+}
+
+#main {
+	width:80%;
+	margin:auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	border:5px white solid;
+	border-radius:15px;
+	font-size:20px;
+	padding-left:40px
+
+}
+
+.nav-buttons a:hover{
+	background:black;
+	color:white;
+}
+
+.li{
+	color:red
+}
+
+.nav-buttons a{
+	font: bold 12x Verdana, Geneva, sans-serif;
+}
+
+.container{
+	width:98%;
+	margin:auto;
+	overflow:hidden;
+}
+
+
+body{
+	background-color:#151515;
+	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.pdf{
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px
+}
+
+.project{
+    padding-left:60px;
+    padding-top:40px;
+    color:#008fff
+}
+
+.proj-description{
+    padding-left:85px
+}
